@@ -10,3 +10,6 @@ Newsletters play a vital role in building and maintaining relationships with sub
 Effective newsletters are personalized and targeted, taking into account the specific interests and preferences of subscribers. Segmentation strategies can be employed to tailor content to different subscriber groups, ensuring that each recipient receives information that is most relevant to them.
 
 Overall, newsletters are a powerful tool for communication, engagement, and marketing, allowing senders to establish a direct and ongoing relationship with their audience, deliver valuable content, and achieve their business or organizational objectives.
+
+
+Link to access the app -> https://newsletter-7gcb.onrender.com
